@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ParkingFinder</string>
+    <string name="title_activity_main">Parking Finder</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_forgot">Forgot Password</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_link_to_forgot">Forgot password.</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="title_activity_mai_navigator">MaiNavigator</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="security_question">Set a security question.</string>
+    <string name="security_answer">Answer</string>
+    <string name="btn_forgot_back_to_login">Wait! Go back to login.</string>
+    <string name="btn_link_to_question">Let me answer my question</string>
+    <string name="btn_link_to_Main_Navigator">Go to Main Navigator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--for slider-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Cars</string>
+    <string name="slide_1_desc">Get parking according to your car shape and size!</string>
+
+    <string name="slide_2_title">GPS</string>
+    <string name="slide_2_desc">The most accurate parking spot near you!</string>
+
+    <string name="slide_3_title">Parking</string>
+    <string name="slide_3_desc">The easiest way to get a parking according to your needs!</string>
+
+    <string name="slide_4_title">Rent</string>
+    <string name="slide_4_desc">Don\'t let your empty garage got waste!</string>
+    <string name="title_activity_maps2">User_Map</string>
+    <string name="title_activity_maps3">Vendor_Map</string>
+    <string name="title_activity_maps4">Map</string>
+    <string name="title_activity_vendor_map">Map</string>
+    <string name="title_activity_client_map">Map</string>
+</resources>

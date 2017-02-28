@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.0_04f484be450c129d401341bf8fd1f0fdbe34d463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_b7c896b1e9d6fe8c6c098eb7bb7bff15abeb10c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.0_65a28323788b874d51f226000746b39e65533152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.0_1896d7b166071d9ee4e15d7cc66ce12ad85c2542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.0_9d55c9eaff348ade712c99799e61ace26f75f853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.0_82cc0e1f2bbc542b71f1eedae480bf33d89ce70f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_326ed1f126e544d28db4eb4cdfc2eb14871a8775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.0_daf17e9d8921b0469549834219732f17d6314142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.0_4725e9eb56e16e893be262d8c525cffe57493626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.0_c09fac94e48e5d1fd81daa126e562f697d2d9b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.0_1e7d386d8ac35ee1d38d63d418db152b349f47eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.0_ede73176a2d68e9691528c38ee4adb7516798960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.0_bffd144cc23bca73c3d557723bf1004e3593c7d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/incremental-runtime-classes/Flavor1/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e94d81c7c00577052e7c37a1afc0eab0ef586937">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/instant-run_6a0f591aca82fe8d0258c1c1ef9ca98e79cc9d9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.0_09dd62bfeec7c432dcbc946067a67d20a5d548cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.0_48ae601fa13ebc452ab79ea79599a72418fbbb61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.0_7da487e360dcc4ad74a196943e9b719237afb827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.0_f1dabefa883cfa2b09972b8b6936493ec8b9a837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.0_c7629823a59f46cbad281235585902bef38fe16e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/internal_impl-24.0.0_7c34740ec834e3bc93cab951c0d84f1a5082c195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-support-v4-24.0.0_35fd1b762724718d2fa28b918783cce477866e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_03fd83175a90d390a3c641f73be7bfc9cdf27628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.0_b69dfe0fa80d8b50f493176e89f8d3bc296259f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_3885e35ee54b2c2d6c7fa94b9671e6a7f80db539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-multidex-1.0.1_ac0d03faef9d2590d1bac0ba6e6b57e3e2ec6684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.0_e696b80b55b3fad1a75bc3a185e677d6760ce286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.0_e2c4e6f85a4cf02e03aebb042c03e1dacdee1844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/internal_impl-23.0.0_ddd0be0d9a9f39b230fd69faf6353210910490f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_53aaffd38fefded6981227b6c71044da8cde83f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/okhttp-2.4.0_323df7b293eef06fad564fe756cb6cbb0dd2d8b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.0_99486274a99328ec2cf9471af44000a2427d0c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_cae6fbaa8c482d1afa2b1222a527783f0a633dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.0_2f18a2ac38d2fb2fae37a2404d35476fc52ac177/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/okio-1.4.0_17e79469a4e325cad827084258694c0058dec111/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/incremental-classes/Flavor1/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2a67a4727f256fadfc991f29980ddc4b93de2f41">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/instant-run-bootstrap_342ede97bf6575343cd87663afcaffeb74d5a866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.0_9991f50c052761fa23c5195ea81960f046123086/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.0_91276ee6db0969dc8d555af30f4714a5e1afbff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/retrofit-1.9.0_490b4d217b2d344b4c9e3151467fd98521507091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.0_b9f33d20c28abed94dbe7a32f635e349763d6f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.0_31374ab8e40b38bd7c0e7d9458083ae8b51b6841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_97ff692b61c9b4d425415d28f4ecd986c37ab2d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.0_5d7466b615c8268e48cf377adb9870a898086df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/support-annotations-24.0.0_e01a02f3808cecd5e410ae8bb61c652c9b994a39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.0_7d09a9b4a88ead5dbb6bb1abd87405757f46485c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.0_343f4da827a4e4eac4ea092348d975f4b545b3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.0_773d1e4673d6a579076a798b3e95fddaefd809ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.0_3169650bf3dc786ba754302b3bc4bcd09c327124/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.0_2870775300af7e99015916f1171163402f1b2f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.0_0bb0af28487952325063226e644f46f86ab0051c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_16e2c0994778f730dc047ee777f8e2958233a1aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.0_1da143533e2ae3fd98a0531c0843bd15b45c14f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.0_1b24873fb91064a614cd4cecac2e9bbe7293b29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/gson-2.3.1_dd5776090a0af702df6d97bc436d4ebb1294b4d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.0_2d4a790d10d46fd765c5e232fc65d44c4b037d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.0_7f1be96716c3cd22a6ac0fe735c16b7a915464e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.0_73069d70e6a221e76836f9b2becf4d4915bcea01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.0_d716a1e8d6075f1f4720e8b20ed10d359a8cad3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.0_9353775b80d4af30b6f0d1b57ff5774615872a0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.0_8b1c032d217a25c0eeb70492921c29f200776014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.0_4f62c915753cac63b32ed7a82c63572073b8bc84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.0_628bf0061c9e38cef0c093dafa54c6dd8483ee0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.0_76f942eaf92073102d870cdfa28e58ba7af9bb5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kayo/Downloads/ParkFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/home/kayo/Downloads/ParkFinder/app/build/intermediates/transforms/dex/Flavor1/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.0_b4f723c8b03777eeba0cee990cc1e1c8d5589be6/classes.dex" />
+    </item>
+
+</items>
